@@ -1,0 +1,2 @@
+# vocabularyTS
+使用python实现考研单词定时定量推送到自己邮箱
