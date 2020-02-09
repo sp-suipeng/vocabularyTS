@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><config>
+    <tstime>8</tstime>
+    <tsnumber>5</tsnumber>
+    <tscur>1</tscur>
+    <tscounts>
+        <count>接受单词的邮箱</count>
+        <!--可添加多个-->
+    </tscounts>
+</config>
